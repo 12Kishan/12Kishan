@@ -1,68 +1,106 @@
-<!-- SEO: Kishan Zalavadia - Full Stack Developer, DevOps Engineer, Software Engineer -->
+<!-- SEO: Kishan Zalavadia - Full Stack Developer, DevOps Engineer, Software Engineer, India -->
+
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Kishan Zalavadia — Full Stack Developer & DevOps Engineer"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kishan%20Zalavadia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
+# 👋 Hey there! I'm **Kishan Zalavadia**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there!+I'm+Kishan+Zalavadia+%F0%9F%91%8B;Full+Stack+Developer+%7C+DevOps+Enthusiast)](https://git.io/typing-svg)
+### 🚀 Full Stack Developer &nbsp;·&nbsp; ☁️ DevOps Enthusiast &nbsp;·&nbsp; 🌱 Always Learning
 
-<p align="center">
-  <a href="https://github.com/12Kishan"><img src="https://img.shields.io/github/followers/12Kishan?label=Followers&style=social" alt="GitHub Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=12Kishan&label=Profile%20Views&color=6E40C9&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=flat" alt="Open To Work"/>
-</p>
+<br/>
+
+📧 [kishanzalavadia12@gmail.com](mailto:kishanzalavadia12@gmail.com) &nbsp;·&nbsp;
+💼 [LinkedIn](https://in.linkedin.com/in/kishanzalavadia) &nbsp;·&nbsp;
+🐙 [GitHub @12Kishan](https://github.com/12Kishan) &nbsp;·&nbsp;
+🌐 [cvjewel.in](https://cvjewel.in/)
 
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me — Kishan Zalavadia
 
-I'm **Kishan Zalavadia**, a developer with **1.5+ years of hands-on experience** building web applications and exploring DevOps practices. I enjoy learning by doing — writing code, breaking things, and figuring out why. Currently levelling up my skills one project at a time.
+I'm **Kishan Zalavadia**, a developer with **1.5+ years of hands-on experience** building web applications, cloud infrastructure, and DevOps pipelines. I hold an **AWS Certified Solutions Architect – Associate** certification and enjoy learning by doing — writing code, breaking things, and figuring out why. Currently levelling up my skills one project at a time.
 
 ```yaml
-name:       Kishan Zalavadia
-username:   12Kishan
-location:   India
-company:    Tech Holding
-experience: 1.5+ Years
-role:       Full Stack Developer (Learning & Growing)
+name:               Kishan Zalavadia
+username:           12Kishan
+location:           India
+company:            Tech Holding
+experience:         1.5+ Years
+role:               Full Stack Developer (Learning & Growing)
+certifications:     [AWS Certified Solutions Architect – Associate]
 skills:
-  frontend:  [HTML, CSS, JavaScript, TypeScript, React]
-  backend:   [Java, Spring Boot, Node.js]
-  devops:    [Docker, Git, Linux, CI/CD basics]
-  other:     [Data Analysis, Python basics]
-currently_learning: Cloud (AWS/GCP), System Design, Kubernetes
-open_to:    Collaborations, Open Source, Learning Opportunities
+  frontend:         [HTML, CSS, JavaScript, TypeScript, React]
+  backend:          [Java, Spring Boot, Node.js]
+  cloud:            [AWS - EC2, S3, Lambda, IAM, RDS, CloudWatch]
+  devops:           [Docker, Git, Linux, CI/CD, GitHub Actions]
+  other:            [Data Analysis, Python basics]
+currently_learning: System Design, Kubernetes, Advanced AWS
+open_to:            Collaborations, Open Source, Learning Opportunities
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**🌐 Frontend**
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+```
+HTML5  ·  CSS3
+JavaScript
+TypeScript
+React
+```
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+</td>
+<td align="center" valign="top" width="25%">
 
-</div>
+**⚙️ Backend**
+
+```
+Java  ·  Spring Boot
+Node.js
+REST APIs
+Python
+```
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**☁️ Cloud — AWS** `✅ Certified`
+
+```
+EC2  ·  S3  ·  Lambda
+IAM  ·  RDS
+CloudWatch  ·  VPC
+```
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🛠️ DevOps & Tools**
+
+```
+Docker  ·  Linux
+Git  ·  GitHub
+CI/CD  ·  GitHub Actions
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,47 +110,73 @@ open_to:    Collaborations, Open Source, Learning Opportunities
 
 | Skill | Proficiency |
 |:------|:------------|
-| HTML & CSS | `██████░░░░` Intermediate |
-| JavaScript | `███████░░░` Intermediate |
-| TypeScript | `██████░░░░` Learning |
-| React | `███████░░░` Learning |
-| Node.js | `██████░░░░` Intermediate |
-| Docker & DevOps | `██████░░░░` Intermediate |
-| Python | `█████░░░░░` Beginner - Intermediate |
-| Java & Spring Boot | `████░░░░░░` Beginer |
+| AWS ☁️ | `███████░░░` AWS Certified ✅ |
+| HTML & CSS | `███████░░░` Intermediate |
+| JavaScript | `██████░░░░` Intermediate |
+| TypeScript | `████░░░░░░` Learning |
+| React | `████░░░░░░` Learning |
+| Node.js | `█████░░░░░` Beginner–Intermediate |
+| Docker & DevOps | `█████░░░░░` Beginner–Intermediate |
+| Java & Spring Boot | `████░░░░░░` Beginner |
+| Python | `███░░░░░░░` Beginner |
 
+</td>
 </div>
 
-<!-- ## 🌐 Top Languages (Public Repos)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Kishan&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=DevOps-Workshop-DDU,Frontend-Treasure" alt="Top Languages"/>
-
-</div>
-
---- -->
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Live Project
-[![CVJewel](https://img.shields.io/badge/🔗%20CVJewel.in-Live%20Project-6E40C9?style=for-the-badge)](https://cvjewel.in/)
+### 🌐 CVJewel.in &nbsp; `🟢 LIVE`
 
-> **CVJewel** — A live web application I built and deployed. Check it out at [cvjewel.in](https://cvjewel.in/)
+A real-world web application built and deployed from scratch. Fully functional and live in production.
 
-</div>
+**Stack:** `HTML` `CSS` `JavaScript` `DevOps`
 
-<div align="center">
+> [🔗 Visit Live →](https://cvjewel.in/)
 
-[![WebDevTutorials](https://github-readme-stats.vercel.app/api/pin/?username=12Kishan&repo=WebDevTutorials&theme=tokyonight&hide_border=true)](https://github.com/12Kishan/WebDevTutorials)
-[![SpringBoot-Project](https://github-readme-stats.vercel.app/api/pin/?username=12Kishan&repo=SpringBoot-Project&theme=tokyonight&hide_border=true)](https://github.com/12Kishan/SpringBoot-Project)
+</td>
+<td width="50%" valign="top">
 
-[![SDP-Project](https://github-readme-stats.vercel.app/api/pin/?username=12Kishan&repo=SDP-Project&theme=tokyonight&hide_border=true)](https://github.com/12Kishan/SDP-Project)
-[![Sales-Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=12Kishan&repo=Sales-Forecasting&theme=tokyonight&hide_border=true)](https://github.com/12Kishan/Sales-Forecasting)
+### 📚 WebDevTutorials
 
-</div>
+Comprehensive web development resources, templates and learning materials for developers.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+> [📂 View Repo →](https://github.com/12Kishan/WebDevTutorials)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ SpringBoot-Project
+
+Backend REST API application built with Java and Spring Boot framework.
+
+**Stack:** `Java` `Spring Boot` `REST API`
+
+> [📂 View Repo →](https://github.com/12Kishan/SpringBoot-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Sales-Forecasting
+
+Data analysis and sales prediction project using statistical methods.
+
+**Stack:** `Python` `Data Analysis` `ML Basics`
+
+> [📂 View Repo →](https://github.com/12Kishan/Sales-Forecasting)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,7 +184,7 @@ open_to:    Collaborations, Open Source, Learning Opportunities
 
 - 🚀 Contribute to **open source** projects
 - ☁️ Get certified in **AWS / Google Cloud**
-- 🏗️ Build and deploy **3+ real-world projects**
+- 🏗️ Build and deploy **2+ more real-world projects**
 - 📚 Learn **System Design** fundamentals
 - 🤝 Collaborate with developers worldwide
 
@@ -136,17 +200,22 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 [![Email](https://img.shields.io/badge/Gmail-kishanzalavadia12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanzalavadia12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishan_Zalavadia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kishanzalavadia)
 
+<!-- | 📧 Email | 💼 LinkedIn | 🐙 GitHub |
+|:---:|:---:|:---:|
+| [kishanzalavadia12@gmail.com](mailto:kishanzalavadia12@gmail.com) | [kishanzalavadia](https://in.linkedin.com/in/kishanzalavadia) | [12Kishan](https://github.com/12Kishan) | -->
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Fun Fact
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-**Kishan Zalavadia** — Building the future, one commit at a time. 🚀
+**Kishan Zalavadia** — Building the future, one commit at a time 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
