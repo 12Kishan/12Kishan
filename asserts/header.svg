@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#4F46E5"/>
+      <stop offset="50%"  stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="rgba(255,255,255,0.12)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="210" fill="url(#bg)"/>
+  <!-- Shine overlay -->
+  <rect width="900" height="105" fill="url(#shine)"/>
+
+  <!-- Decorative blobs -->
+  <circle cx="70"  cy="45"  r="90"  fill="rgba(255,255,255,0.06)"/>
+  <circle cx="840" cy="175" r="110" fill="rgba(255,255,255,0.06)"/>
+  <circle cx="460" cy="-25" r="90"  fill="rgba(255,255,255,0.04)"/>
+  <circle cx="280" cy="190" r="55"  fill="rgba(255,255,255,0.04)"/>
+
+  <!-- Dot accents -->
+  <circle cx="170" cy="170" r="3"   fill="rgba(255,255,255,0.45)"/>
+  <circle cx="195" cy="152" r="2"   fill="rgba(255,255,255,0.30)"/>
+  <circle cx="148" cy="185" r="1.5" fill="rgba(255,255,255,0.30)"/>
+  <circle cx="730" cy="38"  r="3"   fill="rgba(255,255,255,0.45)"/>
+  <circle cx="755" cy="55"  r="2"   fill="rgba(255,255,255,0.30)"/>
+  <circle cx="710" cy="22"  r="1.5" fill="rgba(255,255,255,0.30)"/>
+
+  <!-- Code brackets decoration -->
+  <text x="42" y="130" font-family="monospace" font-size="80" fill="rgba(255,255,255,0.08)" font-weight="bold">&lt;/&gt;</text>
+  <text x="760" y="100" font-family="monospace" font-size="50" fill="rgba(255,255,255,0.07)" font-weight="bold">{ }</text>
+
+  <!-- Wave at bottom -->
+  <path d="M0,172 C120,155 260,188 420,168 C560,150 700,182 900,165 L900,210 L0,210 Z" fill="rgba(0,0,0,0.18)"/>
+  <path d="M0,185 C150,170 320,198 500,180 C660,164 800,192 900,178 L900,210 L0,210 Z" fill="rgba(0,0,0,0.10)"/>
+
+  <!-- Name -->
+  <text x="450" y="95"
+    font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="54" font-weight="700"
+    fill="white" text-anchor="middle"
+    letter-spacing="1.5">Kishan Zalavadia</text>
+
+  <!-- Role -->
+  <text x="450" y="136"
+    font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="18"
+    fill="rgba(255,255,255,0.88)"
+    text-anchor="middle"
+    letter-spacing="0.8">Full Stack Developer  ·  DevOps Engineer  ·  1.5+ Years Experience</text>
+</svg>
