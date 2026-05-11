@@ -117,8 +117,8 @@ CI/CD  ·  GitHub Actions
 | React | `████░░░░░░` Learning |
 | Node.js | `█████░░░░░` Beginner–Intermediate |
 | Docker & DevOps | `█████░░░░░` Beginner–Intermediate |
+| Python | `█████░░░░░` Beginner–Intermediate |
 | Java & Spring Boot | `████░░░░░░` Beginner |
-| Python | `███░░░░░░░` Beginner |
 
 </td>
 </div>
